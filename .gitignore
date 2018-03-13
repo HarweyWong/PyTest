@@ -1,5 +1,10 @@
 .idea
+.idea/
 target/
 *.class
 *.iml
-.idea/
+
+
+# virtualenv
+venv/
+ENV/
